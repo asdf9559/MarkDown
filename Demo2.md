@@ -11,8 +11,10 @@
 - 内部链接2测试，[asdf]()
 
 ### 引用式链接	
--外部连接:[百度]	
--外部链接:[百度][baidu]
+-外部连接:[百度]	 
+-外部链接:[百度][baidu]	
+-内部链接2，链接仓库的其他文档:[demo1]	
+-内部链接2，链接本文档的其他部分：[asdf][aaaa]
 
 ## 图片 Demo
 -随便看看
@@ -26,3 +28,5 @@
 <!--以下是本文档中用到的链接-->
 [百度]:http://www.baidu.com
 [baidu]:http://www.baidu.com
+[demo1]:demo1.md	
+[aaaa]:Demo2.md#asdf
