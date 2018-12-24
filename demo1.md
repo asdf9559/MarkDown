@@ -36,9 +36,10 @@ asdf9559的个人信息
 ### 有序列表
 1. asdf
 2. asdlfjk 
-3. al;sdkjflaksjlfjka
-4. asld;jfoieflkjas;lfd sadlfkj
-5. 验证页面的元素是否能支持
+3. 验证页面的元素是否能支持
 6. MarkDown这里有个bug
 7. 可以测试无法测试的功能点。
+3. al;sdkjflaksjlfjka
+4. asld;jfoieflkjas;lfd sadlfkj
+
 
