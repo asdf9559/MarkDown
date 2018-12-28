@@ -30,7 +30,7 @@ GFM : github flvored markdown,GFM
 task list
 - [x] task 1
 - [x] task 2
-- [ ] task 3
+- [Y] task 3
   
 :snake:
 
