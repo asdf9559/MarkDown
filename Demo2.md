@@ -22,13 +22,12 @@
 比如[百度一下，你就知道][百度kk]  
 比如本文档asdf部分，就是[asdf][asdf]  
 aa
-## 图片 Demo
-中文tab	
-英文tab	
-中文两个回车  
-英文两个回车  
-GameOver
--随便看看
+## 图片 Demo  
+![PICTURE](https://p1.ssl.qhimg.com/t0151320b1d0fc50be8.png "随便图片")  
+![gita](1.jpg "local image")  
+![testa](https://p1.ssl.qhimg.com/t0151320b1d0fc50be8.png "local image")
+
+
 ## 引用 Demo
 
 ## 代码块 Demo
