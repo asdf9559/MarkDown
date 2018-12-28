@@ -53,7 +53,7 @@ public static void main(String[] args){
 
 
 ## asdf
--测试内部链接
+- 测试内部链接
 
 <!--以下是本文档中用到的链接-->
 [百度]:http://www.baidu.com
