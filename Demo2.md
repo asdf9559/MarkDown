@@ -25,12 +25,32 @@ aa
 ## 图片 Demo  
 ![PICTURE](https://p1.ssl.qhimg.com/t0151320b1d0fc50be8.png "随便图片")  
 ![gita](1.jpg "local image")  
-![testa](https://p1.ssl.qhimg.com/t0151320b1d0fc50be8.png "local image")
-
+![testa](https://p1.ssl.qhimg.com/t0151320b1d0fc50be8.png "local image")  
+- 图片的的引用式链接  
+![PICTURE][随便看看]  
+![gita][localImg]  
+![testa](https://p1.ssl.qhimg.com/t0151320b1d0fc50be8.png "local image")  
 
 ## 引用 Demo
 
-## 代码块 Demo
+>这是一段引文
+>>>另外一段引用  
+
+出自《出处》
+
+## 代码块 Demo  
+用反引号来标记代码块，反引号是英文半角状态下，键盘1左面那个键  
+
+- 行内代码块
+这个代码中用来申明变量是`var a=10`，打印变量内容是`console.log`函数的调用
+- 块式代码  
+```java 
+public static void main(String[] args){
+	fff 
+}
+```
+
+
 
 ## asdf
 -测试内部链接
@@ -42,3 +62,5 @@ aa
 [aaaa]:Demo2.md#asdf	
 [百度kk]:http://www.baidu.com		
 [asdf]:Demo2.md#asdf
+[随便看看]:https://p1.ssl.qhimg.com/t0151320b1d0fc50be8.png  
+[localImg]:1.jpg
